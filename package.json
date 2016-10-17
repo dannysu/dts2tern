@@ -1,0 +1,25 @@
+{
+  "name": "dts2tern",
+  "version": "1.0.0",
+  "description": "Utility to convert TypeScript d.ts files to Tern-style file",
+  "bin": {
+    "from_ts": "./bin/from_ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^2.0.3"
+  },
+  "devDependencies": {
+    "DefinitelyTyped": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "keywords": [
+    "typescript",
+    "tern",
+    "ternjs",
+    "tern.js"
+  ],
+  "author": "Danny Su <contact@dannysu.com>",
+  "license": "MIT"
+}
