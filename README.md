@@ -1,4 +1,4 @@
-Initial code taken from [ternjs/tern/commit/26290d5][1].
+Initial code taken from [ternjs/tern/commit/26290d5][1]. NOTE that this is still a WIP. It's not functional yet.
 
 Example Usage
 -------------
